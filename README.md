@@ -1,11 +1,11 @@
 # Mercury DreamLab
 > A community‑driven content club built around **Iconic Mercury**
 
-[![License: MFL](https://img.shields.io/badge/license‑Mercury%20Freeport%20License‑blue)](LICENSE.md)
-[![Non‑Commercial](https://img.shields.io/badge/status‑non‑commercial‑green)](#成员规约)
-[![Not IX‑Ray Official](https://img.shields.io/badge/IX‑Ray‑unofficial‑orange)](https://github.com/ix‑ray)
-[![S.T.A.L.K.E.R. Steam Franchise](https://img.shields.io/badge/S.T.A.L.K.E.R‑Steam‑steam)](https://store.steampowered.com/franchise/stalker)
-[![GSC Game World Official](https://img.shields.io/badge/GSC‑GameWorld‑darkred)](https://www.gsc‑game.com/)
+[![License: MFL](https://img.shields.io/badge/license-Mercury%20Freeport%20License-blue)](LICENSE.md)
+[![Non-Commercial](https://img.shields.io/badge/status-non--commercial-green)](#成员规约)
+[![Not IX-Ray Official](https://img.shields.io/badge/IX--Ray-unofficial-orange)](https://github.com/ix-ray)
+[![S.T.A.L.K.E.R. Steam](https://img.shields.io/badge/S.T.A.L.K.E.R-Steam-1b2838?logo=steam)](https://store.steampowered.com/franchise/stalker)
+[![GSC Game World](https://img.shields.io/badge/GSC-GameWorld-990000)](https://www.gsc-game.com/)
 
 ---
 

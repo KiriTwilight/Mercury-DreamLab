@@ -22,10 +22,10 @@ In this document:
 ## About DreamLab
 Mercury DreamLab 是一个围绕 Iconic Mercury 建立的社区驱动内容俱乐部，鼓励深度、大胆的修改——实验性内容、全面转换、游戏、演示，以及超越常规想象的想法。
 
-DreamLab 是 Mercury Engine 的项目倡议，并非官方 IX‑Ray 社区。它非商业、由社区驱动，致力于以合法、尊重、非商业的方式把 Iconic Mercury 推向更远处。
+DreamLab 是 Iconic Mercury 的项目倡议，它非商业、由社区驱动，致力于以合法、尊重、非商业的方式把 Iconic Mercury 推向更远处。
 > Mercury DreamLab is a community‑driven content club built around Iconic Mercury. It encourages deep, ambitious modifications—experiments, total conversions, games, demos, and ideas that go beyond conventional limits.
 >
-> DreamLab is a Mercury Engine initiative, not an official IX‑Ray community. It is non‑commercial, community‑driven, and focused on pushing Iconic Mercury further—legally, respectfully, and without commercial exploitation.
+> DreamLab is a Iconic Mercury initiative. It is non‑commercial, community‑driven, and focused on pushing Iconic Mercury further—legally, respectfully, and without commercial exploitation.
 
 ---
 ## Open Access | 开放访问

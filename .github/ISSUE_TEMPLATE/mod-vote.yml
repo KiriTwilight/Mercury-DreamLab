@@ -1,0 +1,54 @@
+name: 模组评分与青睐
+description: 为 DreamLab 中的模组提交评分、青睐与评价
+title: "[评分] "
+labels: ["mod-vote"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        请填写模组所在的仓库路径，例如 `Community/testmod` 或 `Official/HD Terrain Overhaul`。
+        每个 GitHub 账号对同一个模组只保留最新的一条提交；修改本 Issue 即可更新。
+        评分与青睐为可选项，评价内容会保留在本 Issue 中供社区浏览。
+
+  - type: input
+    id: mod
+    attributes:
+      label: 模组
+      description: 模组目录路径（Official/<目录名> 或 Community/<目录名>）
+      placeholder: Community/testmod
+    validations:
+      required: true
+
+  - type: dropdown
+    id: rating
+    attributes:
+      label: 评分
+      description: 1–5 星，可留空
+      options:
+        - "5"
+        - "4"
+        - "3"
+        - "2"
+        - "1"
+    validations:
+      required: false
+
+  - type: dropdown
+    id: favorite
+    attributes:
+      label: 青睐
+      description: 是否将模组加入你的青睐列表
+      options:
+        - "是"
+        - "否"
+    validations:
+      required: false
+
+  - type: textarea
+    id: review
+    attributes:
+      label: 社区评价
+      description: 可选，写下游玩体验、兼容性问题或建议
+      placeholder: 例如：材质细节很好，但载入时间偏长。
+    validations:
+      required: false

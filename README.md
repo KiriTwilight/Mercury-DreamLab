@@ -80,6 +80,20 @@ DreamLab 正式成员由创始人亲自选择。申请者必须证明自己有�
 > Every month, MCLF will give away at least **10%** and at most **20%** of the donations it has received.
 
 ---
+## Community Ratings & Favorites | 社区评分与青睐
+评分与青睐通过 GitHub Issue 收集，不使用自建服务器：
+
+1. 新建 Issue 时选择「模组评分与青睐」模板，填写模组路径（如 `Community/testmod`）、评分（1–5）、是否青睐与可选评价。
+2. `.github/workflows/mod-stats.yml` 在 Issue 新增、修改、关闭、删除时自动运行。
+3. 脚本只统计 **open** 且符合模板格式的 Issue（含 `### 模组` 字段）；同一 GitHub 账号对同一模组只保留最新一条记录，修改 Issue 即可更新，关闭 Issue 即可撤回。
+4. 聚合结果写入根目录 [`stats.json`](stats.json)，MUL 通过 raw 地址读取并显示社区评分与青睐数；文字评价保留在对应 Issue 中。
+5. 可直接编辑 `stats.json` 进行人工修正，下一次运行 Action 时会以 Issue 数据重新计算。
+
+> Ratings and favorites are collected through GitHub issues. Open issues that follow
+> the issue form are aggregated into `stats.json`; one vote per account per mod, and
+> closing the issue withdraws the vote.
+
+---
 ## Final Note | 后记
 > 非营利 · 社区自治 · 在 MFL 框架下享有创作自由
 

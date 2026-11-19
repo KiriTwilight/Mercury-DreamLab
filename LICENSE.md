@@ -2,11 +2,11 @@
 **水星自由港许可证（MFL）**
 版本 1.0 | Version 1.0
 
-版权所有 (c) [年份] [创始人 / Iconic Mercury]
-Copyright (c) [Year] [Founder / Iconic Mercury]
+版权所有 (c) [2026] [Kiri_Bananakat / 铀元素团队]
+Copyright (c) [2026] [Kiri_Bananakat / Team Uranium]
 
-本许可证基于 MIT 许可证 与 IX-Ray 许可证，并包含与 Iconic Mercury 直接相关的附加限制。
-This License is based on the MIT License and the IX-Ray License, with additional restrictions directly related to Iconic Mercury.
+本许可证基于 MIT 许可证，并包含与 Iconic Mercury 直接相关的附加限制。
+This License is based on the MIT License, with additional restrictions directly related to Iconic Mercury.
 
 ---
 
@@ -46,5 +46,5 @@ This License is based on the MIT License and the IX-Ray License, with additional
 ---
 
 ## 优先顺序 | Precedence
-本许可证基于 MIT 许可证与 IX-Ray 许可证。如本许可证与上述许可证之间存在任何冲突，就 Iconic Mercury 而言，以本许可证中的限制为准。
-> This License is based on the MIT License and the IX-Ray License. In case of any conflict between this License and those licenses, the restrictions in this License shall prevail with respect to Iconic Mercury.
+本许可证基于 MIT 许可证。如本许可证与上述许可证之间存在任何冲突，就 Iconic Mercury 而言，以本许可证中的限制为准。
+> This License is based on the MIT License. In case of any conflict between this License and those licenses, the restrictions in this License shall prevail with respect to Iconic Mercury.

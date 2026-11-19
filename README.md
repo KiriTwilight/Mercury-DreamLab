@@ -11,7 +11,7 @@
 
 ## Definitions
 > 中文释义：
-> - **Iconic Mercury**：统称 Mercury Engine（ME）、Mercury Universal Editor（MUE）、Mercury Universal Launcher（MUL）
+> - **Iconic Mercury**：统称 Mercury Engine（ME）、Mercury Universal Editor（MUE）、Mercury Universal Launcher（MUL）及其相关组成部分，包括其源代码、二进制文件、资产与文档等。
 > - **MFL**：Mercury Freeport License（水星自由港许可协议）
 > - **MCLF**：Mercury Community Love Foundation（水星社区爱心基金）
 

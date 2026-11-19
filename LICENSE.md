@@ -11,7 +11,7 @@ This License is based on the MIT License, with additional restrictions directly 
 ---
 
 ## 定义 | Definitions
-· “Iconic Mercury” 指 Mercury Engine（ME）、Mercury Universal Editor（MUE） 与 Mercury Universal Launcher（MUL），包括其源代码、二进制文件、资产与文档。
+· “Iconic Mercury” 指 Mercury Engine（ME）、Mercury Universal Editor（MUE） 与 Mercury Universal Launcher（MUL）及其相关组成部分，包括其源代码、二进制文件、资产与文档等。
 > “Iconic Mercury” means Mercury Engine (ME), Mercury Universal Editor (MUE), and Mercury Universal Launcher (MUL), including their source code, binaries, assets, and documentation.
 
 · “软件” 指 Iconic Mercury 软件及其相关文档文件。
@@ -42,6 +42,12 @@ This License is based on the MIT License, with additional restrictions directly 
 ## 免责声明 | Disclaimer of Warranty
 本软件按“原样”提供，不提供任何明示或暗示的保证，包括但不限于对适销性、特定用途适用性和非侵权的保证。在任何情况下，作者或版权持有人均不对任何索赔、损害或其他责任负责，无论是合同诉讼、侵权行为还是其他原因，由本软件或本软件的使用或其他交易引起或与之相关。
 > THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+---
+
+## 边界裁定｜Boundary Adjudication
+在出现本许可证未明确约定的边界行为时，铀元素团队及其创始人拥有MFL对边界行为适用性的裁定权。
+> In the event of borderline conduct not explicitly stipulated under this License, the Uranium Element Team and its founder shall hold the authority to adjudicate the applicability of the MFL to such conduct.
 
 ---
 

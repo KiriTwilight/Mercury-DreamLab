@@ -9,7 +9,7 @@
 
 ---
 
-## 📖 Definitions
+## Definitions
 > 中文释义：
 > - **Iconic Mercury**：统称 Mercury Engine（ME）、Mercury Universal Editor（MUE）、Mercury Universal Launcher（MUL）
 > - **MFL**：Mercury Freeport License（水星自由港许可协议）
@@ -22,7 +22,7 @@ In this document:
 
 ---
 
-## ✨ About DreamLab
+## About DreamLab
 Mercury DreamLab 是围绕 Iconic Mercury 搭建、由社区自主驱动的内容创作俱乐部。我们鼓励富有深度、大胆突破的改造项目：实验内容、完整模组转换、独立游戏、技术演示，以及一切挣脱常规边界的创意构想。
 
 DreamLab 属于 Mercury Engine 发起项目，**并非 IX‑Ray 官方社区**。本组织为非营利性质、社区自治，目标是在合法、互相尊重、杜绝商业化利用的前提下，拓展 Iconic Mercury 的可能性边界。
@@ -32,7 +32,7 @@ DreamLab 属于 Mercury Engine 发起项目，**并非 IX‑Ray 官方社区**�
 
 ---
 
-## 🗝️ Open Access | 开放访问
+## Open Access | 开放访问
 凡是拥有 Iconic Mercury 使用权限的用户，均可访问 DreamLab。
 相关工具以及 DreamLab 对外公开的全部内容，平等、免费、无限制开放。
 无需购买、捐赠、订阅，也不强制任何形式的物质贡献。
@@ -42,7 +42,7 @@ DreamLab 属于 Mercury Engine 发起项目，**并非 IX‑Ray 官方社区**�
 
 ---
 
-## 🧑‍🤝‍🧑 Membership | 成员资格
+## Membership | 成员资格
 DreamLab 正式成员由创始人遴选。
 申请者需要证明自己有能力将创意落地为稳定、完整的项目，并一同维护 DreamLab 对外公开内容的质量标准。
 
@@ -54,8 +54,8 @@ DreamLab 正式成员由创始人遴选。
 
 ---
 
-## ⚖️ Rules for Members | 成员规约
-### ✅ What members must comply with | 成员必须遵守
+## Rules for Members | 成员规约
+### What members must comply with | 成员必须遵守
 1. 成员所有行为与项目分发，必须遵守 MFL；该协议严格禁止一切商业行为。
 > All member behavior and project distribution must comply with the **MFL**, which strictly forbids commercial activity of any kind.
 
@@ -68,7 +68,7 @@ DreamLab 正式成员由创始人遴选。
 4. 流向成员的自愿捐赠必须完全自愿，不得承诺、提供任何回报。捐赠不能换取成员身份、访问权限、优先权、话语权或者专属内容。
 > Voluntary donations to members must be truly voluntary and must not provide or promise any kind of return. Donations cannot buy membership, access, priority, influence, or exclusive content.
 
-### 🟢 What members may do | 成员允许进行
+### What members may do | 成员允许进行
 1. 在遵守“无回报”原则的前提下，成员可自行决定是否接受来自社区或创始人的自愿捐赠。
 > Accept voluntary donations at their personal discretion, whether from the community or from the founders, provided the no‑return rule is respected.
 
@@ -80,7 +80,7 @@ DreamLab 正式成员由创始人遴选。
 
 ---
 
-## 💰 Founder Donations & Redistribution | 创始人捐赠与资金再分配
+## Founder Donations & Redistribution | 创始人捐赠与资金再分配
 1. 创始人发放的捐赠资金，来自创始人自有资产，或是创始人接收的社区自愿捐赠。
 > Donations made by the founders are sourced from the founders’ own property or from donations accepted by the founders from the community.
 
@@ -98,6 +98,6 @@ DreamLab 正式成员由创始人遴选。
 
 ---
 
-## 📌 Final Note
+## Final Note
 > 非营利 · 社区自治 · 在 MFL 框架下享有创作自由
 > Non‑commercial · Community‑driven · Creative freedom under MFL

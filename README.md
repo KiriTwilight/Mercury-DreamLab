@@ -1,5 +1,6 @@
 # Mercury DreamLab
 > A community‑driven content club built around **Iconic Mercury**
+
 [![License: MFL](https://img.shields.io/badge/license-Mercury%20Freeport%20License-blue)](LICENSE.md)
 [![Non-Commercial](https://img.shields.io/badge/status-non--commercial-green)](#成员规约)
 [![Not IX-Ray Official](https://img.shields.io/badge/IX--Ray-unofficial-orange)](https://github.com/ix-ray)
@@ -81,4 +82,5 @@ DreamLab 正式成员由创始人亲自选择。申请者必须证明自己有�
 ---
 ## Final Note | 后记
 > 非营利 · 社区自治 · 在 MFL 框架下享有创作自由
+
 > Non‑commercial · Community‑driven · Creative freedom under MFL
